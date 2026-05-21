@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "Initial release of UniPlay.",
-  "pub_date": "2026-05-09T00:00:00Z",
+  "notes": "Initial release of UniPlay — A lighter system. A cleaner game.",
+  "pub_date": "2026-05-19T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_YOUR_SIGNATURE_HERE",
-      "url": "https://github.com/Ia-Irfan00/uniplay-releases/releases/download/v1.0.0/UniPlay_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQWhNNXU4WFV3UGZ0emJUb0RUM1E1VEhxU1RUQzBBemdYVy9aN2pBcE9iNVljaVl3Q0U3ZmlFV2dzTHBjb1RVWVB1V0s4YVdMUEpySXlzWURySEZlSEJmRVlOekR2NWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MzcwOTM4CWZpbGU6VW5pUGxheV8xLjAuMF94NjQtc2V0dXAuZXhlCllaV1ZGY0JFelMzdWVERmRUM0hlTjJ1Skx0L2N4VTRwLzl4bmZ1Q0ljR2pDVlBRRzBiY2hya1EwM3BDQ25GWkYvNDR5MGJWVlpQYWdjWEttbDFkVEFRPT0K",
+      "url": "https://github.com/IA-Irfan00/uniplay-releases/releases/download/v1.0.0/UniPlay_1.0.0_x64-setup.exe"
     }
   }
 }
